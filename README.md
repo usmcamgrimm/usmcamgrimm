@@ -1,10 +1,7 @@
 <h1 align="center">Hi! I'm Adrian</h1>
-<h3 align="center">I am a front-end developer and Marine Corps veteran working my way into my first dev role</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=usmcamgrimm alt=usmcamgrimm/> </p>
+<h3 align="center">I am a front-end developer and Marine Corps veteran. I learned to code and graduated from [Vets Who Code](https://vetswhocode.io/).  I am passionate and love to build open-source products to share with others!</h3>
 
 Send me an email: **usmcamgrimm@gmail.com**
-
-Check out my website! [https://grimm.codes](https://grimm.codes)
 
 <p align="center"><img src=https://github-readme-stats.vercel.app/api?username=usmcamgrimm&show_icons=true alt=usmcamgrimm /> </p>
 
