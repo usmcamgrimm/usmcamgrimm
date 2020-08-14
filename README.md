@@ -4,7 +4,7 @@
 
 Father of 3 awesome kids and 3 cats. My son and I love football and the Indianapolis Colts!
 
-<p><img src="https://github.com/usmcamgrimm/usmcamgrimm/blob/master/coltsgame.jpg" alt="My son and I before a game"/></p>
+<p><img src="https://github.com/usmcamgrimm/usmcamgrimm/blob/master/game.jpg" alt="My son and I before a game"/></p>
 
 I am a veteran of the United States Marine Corps. From working on artillery to writing code,
 it's been an incredible journey. My amazing experiences in the Marine Corps helped shape who I am,
