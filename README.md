@@ -4,7 +4,7 @@
 
 Father of 3 awesome kids and 3 cats. My son and I love football and the Indianapolis Colts!
 
-<p><img src="https://github.com/usmcamgrimm/usmcamgrimm/blob/master/game.jpg" alt="My son and I before a game"/></p>
+![My son and I before a Colts game](https://github.com/usmcamgrimm/usmcamgrimm/blob/master/game.jpg)
 
 I am a veteran of the United States Marine Corps. From working on artillery to writing code,
 it's been an incredible journey. My amazing experiences in the Marine Corps helped shape who I am,
@@ -19,7 +19,8 @@ and now, I'm part of the Codepen team.
 
 ### Android Development
 
-<p><img src="https://github.com/usmcamgrimm/usmcamgrimm/blob/master/exodusheader.png" alt="header for Exodus Android"/></p>
+![header for Exodus Android](https://github.com/usmcamgrimm/usmcamgrimm/blob/master/exodusheader.png)
+
 I started coding to build custom Android ROMs. I started small, learning to manipulate XML to make themes.
 Soon, I found myself manipulating system images and creating automated build scripts. Ever more curious, I dove into Java.
 I loved how I could manipulate code into a feature in the Android system! One of the co-founders of a developer team,
