@@ -6,25 +6,15 @@ Father of 3 awesome kids and 3 cats. My son and I love football and the Indianap
 
 ![My son and I before a Colts game](https://github.com/usmcamgrimm/usmcamgrimm/blob/master/game.jpg)
 
-I am a veteran of the United States Marine Corps. From working on artillery to writing code,
-it's been an incredible journey. My amazing experiences in the Marine Corps helped shape who I am,
-and began to develop attributes necessary to be a developer. It's been a long journey. My military
-skills took me first to a career in security, where I helped maintain a SQL database for card access systems.
-In 2017 I started taking classes to pursue a career as a database administrator but it wasn't until I took a
-javascript class that I realized where my future lies.
+### Towed Artillery to Front-End Developer
 
-I found [Vets Who Code](https://vetswhocode.io/) through a mention on Twitter, and after doing some research,
-sent in an application. Through this organization, I have learned more than I had previously thought possible,
-and now, I'm part of the Codepen team.
+I am a veteran of the United States Marine Corps. From working on artillery to writing code, it's been an amazing journey. Initially I sought a career in database management and was studying SQL, MSSQL administration, and Oracle Database. I found [Vets Who Code](https://vetswhocode.io/), and through this organization, I have learned more than I had previously thought possible. Now, I'm part of the Codepen team.  Concentrating on front-end, I use the tools I've learned to build cool stuff for others.
 
 ### Android Development
 
 ![header for Exodus Android](https://github.com/usmcamgrimm/usmcamgrimm/blob/master/exodusheader.png)
 
-I started coding to build custom Android ROMs. I started small, learning to manipulate XML to make themes.
-Soon, I found myself manipulating system images and creating automated build scripts. Ever more curious, I dove into Java.
-I loved how I could manipulate code into a feature in the Android system! One of the co-founders of a developer team,
-we released our own Android ROM, called _[UnholyDevs](https://youtu.be/gOjHiOEFCxg)_. This was the launchpad for a career in coding.
+I loved how I could manipulate code into a feature in the Android system! This was the launchpad for my career in coding. I've built custom frameworks, themes, and kernels. I enjoy designing graphics as well, and manipulating images for use as wallpapers and backgrounds.
 
 Interested in my story? Send me an email: **usmcamgrimm@gmail.com**
 
