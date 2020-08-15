@@ -8,7 +8,7 @@ Father of 3 awesome kids and 3 cats. My son and I love football and the Indianap
 
 ### Towed Artillery to Front-End Developer
 
-I am a veteran of the United States Marine Corps. From working on artillery to writing code, it's been an amazing journey. Initially I sought a career in database management and was studying SQL, MSSQL administration, and Oracle Database. I found [Vets Who Code](https://vetswhocode.io/), and through this organization, I have learned more than I had previously thought possible. Now, I'm part of the Codepen team.  Concentrating on front-end, I use the tools I've learned to build cool stuff for others.
+I am a veteran of the United States Marine Corps. From working on artillery to writing code, it's been an amazing journey. Initially I sought a career in database management and was studying SQL, MSSQL Server administration, and Oracle Database. I found [Vets Who Code](https://vetswhocode.io/), and through this organization, I have learned more than I had previously thought possible. Now, I'm part of the Codepen team.  Concentrating on front-end, I use the tools I've learned to build cool stuff for others.
 
 ### Android Development
 
