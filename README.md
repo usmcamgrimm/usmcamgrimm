@@ -1,9 +1,5 @@
 ## Hi! I'm Adrian
 
-### Who am I?
-
-Father of 3 awesome kids and 3 cats. My son and I love football and the Indianapolis Colts!
-
 ![Sitting at the beach](https://github.com/usmcamgrimm/usmcamgrimm/blob/master/phto.jpg)
 
 ### Towed Artillery to Front-End Developer
@@ -18,6 +14,12 @@ I loved how I could manipulate code into a feature in the Android system! This w
 
 Interested in my story? Send me an email: **usmcamgrimm@gmail.com**
 
-<p><img src=https://github-readme-stats.vercel.app/api?username=usmcamgrimm&show_icons=true alt=usmcamgrimm /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmcamgrimm&layout=compact&hide=html" alt="usmcamgrimm" />
 
+<img src="https://github-readme-stats.vercel.app/api?username=usmcamgrimm&show_icons=true" alt="usmcamgrimm" />
+</p>
+
+<p align-"center">
 <a title="Portfolio, grimm.codes" href="https://adriangrimm.com"><img alt="Link to my portfolio website" src="https://raw.githubusercontent.com/usmcamgrimm/usmcamgrimm/master/icons/portfolio.png" width="130" /></a> <a title="Twitter" href="https://twitter.com/usmcamgrimm"><img alt="Twitter page" src="https://raw.githubusercontent.com/usmcamgrimm/usmcamgrimm/master/icons/twitter.png" width="130" /></a> <a title="LinkedIn" href="https://www.linkedin.com/in/grimmam/"><img alt="MY LinkedIn page" src="https://raw.githubusercontent.com/usmcamgrimm/usmcamgrimm/master/icons/linkedin.png" width="130" /></a> <a title="VWC" href="https://vetswhocode.io"><img alt="Vets Who Code" src="https://raw.githubusercontent.com/usmcamgrimm/usmcamgrimm/master/icons/vwc.png" width="130" /></a>
+</p>
