@@ -14,7 +14,7 @@ I am a veteran of the United States Marine Corps. From working on artillery to w
 
 I loved how I could manipulate code into a feature in the Android system! This was the launchpad for my career in coding. I've built custom frameworks, themes, and kernels. I enjoy designing graphics as well, and manipulating images for use as wallpapers and backgrounds.
 
-![header for Exodus Android](https://github.com/usmcamgrimm/usmcamgrimm/blob/master/exodusheader.png)
+![I enjoy writing code](https://github.com/usmcamgrimm/usmcamgrimm/blob/master/code.gif)
 
 Interested in my story? Send me an email: **usmcamgrimm@gmail.com**
 
