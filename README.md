@@ -8,7 +8,7 @@ I am a veteran of the United States Marine Corps. From working on artillery to w
 
 ### Android Development
 
-Android custom ROMs and graphics design launched my love for wcode, and made me realize I could make a career of something I enjoy. I've built custom frameworks, themes, and kernels. I have designed logos for developer teams and created hundreds of wallpapers.
+Android custom ROMs and graphics design launched my love for code, and made me realize I could make a career of something I enjoy. I've built custom frameworks, themes, and kernels. I have designed logos for developer teams and created hundreds of wallpapers.
 
 <p align="center">
 
