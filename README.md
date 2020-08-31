@@ -22,4 +22,8 @@ Android custom ROMs and graphics design launched my love for code, and made me r
 
 ### Interested in my story? Send me an email: [usmcamgrimm@gmail.com](mailto:usmcamgrimm@gmail.com)
 
-![I enjoy writing code](https://github.com/usmcamgrimm/usmcamgrimm/blob/master/code.gif)
+<p align="center">
+
+<img src="https://github.com/usmcamgrimm/usmcamgrimm/blob/master/code.gif" alt="I love writing code" />
+
+</p>
