@@ -2,13 +2,17 @@
 
 ![Sitting at the beach](https://github.com/usmcamgrimm/usmcamgrimm/blob/master/photo.jpg)
 
-### Towed Artillery to Front-End Developer
+### Towed Artillery to Database Administration
 
-I am a veteran of the United States Marine Corps. From working on artillery to writing code, it's been an amazing journey. Initially I sought a career in database management and was studying SQL, MSSQL Server administration, and Oracle Database. I found [Vets Who Code](https://vetswhocode.io/), and through this organization, I learned front-end development. Now, I'm part of the Codepen team. I love to use the skills I've learned, while developing them further, to build cool stuff for others.
+I am a veteran of the United States Marine Corps. From working on artillery to writing code, it's been an amazing journey. After working with data as part of a card access database, I initially sought a career in database administration and studied SQL, MSSQL Server administration, and Oracle Database.
 
 ### Android Development
 
 Android custom ROMs and graphics design launched my love for code, and made me realize I could make a career of something I enjoy. I've built custom frameworks, themes, and kernels. I have designed logos for developer teams and created hundreds of wallpapers.
+
+### Vets Who Code and Front-End Development
+
+I transitioned from database administration to web development after taking classes first in HTML and then JavaScript.  While I enjoyed working with data, I found it more rewarding to create websites and content. I then found [Vets Who Code](https://vetswhocode.io/), and through this organization, studied front-end development. Working with, and learning from, veterans while developing skills has been an amazing and rewarding experience. I love using these new skills, while developing them further, to build cool stuff for others.
 
 <p align="center">
 
