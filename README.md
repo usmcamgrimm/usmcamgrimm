@@ -14,7 +14,7 @@ Android custom ROMs and graphics design launched my love for code, and made me r
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmcamgrimm&layout=compact&hide=html" alt="usmcamgrimm" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=usmcamgrimm&show_icons=true" alt="usmcamgrimm" />
+<img src="https://github-readme-stats.vercel.app/api?username=usmcamgrimm&show_icons=true&count_private=true&hide=contribs,prs" alt="usmcamgrimm" />
 
 </p>
 
