@@ -24,8 +24,6 @@ I transitioned from database administration to web development after taking clas
 
 <a title="Portfolio, grimm.codes" href="https://adriangrimm.com"><img alt="Link to my portfolio website" src="https://raw.githubusercontent.com/usmcamgrimm/usmcamgrimm/master/icons/portfolio.png" width="130" /></a> <a title="Twitter" href="https://twitter.com/usmcamgrimm"><img alt="Twitter page" src="https://raw.githubusercontent.com/usmcamgrimm/usmcamgrimm/master/icons/twitter.png" width="130" /></a> <a title="LinkedIn" href="https://www.linkedin.com/in/grimmam/"><img alt="MY LinkedIn page" src="https://raw.githubusercontent.com/usmcamgrimm/usmcamgrimm/master/icons/linkedin.png" width="130" /></a> <a title="VWC" href="https://vetswhocode.io"><img alt="Vets Who Code" src="https://raw.githubusercontent.com/usmcamgrimm/usmcamgrimm/master/icons/vwc.png" width="130" /></a>
 
-### Interested in my story? Send me an email: <usmcamgrimm@gmail.com>
-
 <p align="center">
 
 <img src="https://github.com/usmcamgrimm/usmcamgrimm/blob/master/code.gif" alt="I love writing code" />
