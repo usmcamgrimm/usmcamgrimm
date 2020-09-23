@@ -22,7 +22,17 @@ I transitioned from database administration to web development after taking clas
 
 </p>
 
+<p align="center">
+
+<img width="660" src="https://github-profile-trophy.vercel.app/?username=usmcamgrimm&margin-w=10&&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="github trophies" />
+
+</p>
+
+<p width="660" align="center">
+
 <a title="adriangrimm.com" href="https://adriangrimm.com"><img alt="Link to my portfolio website" src="https://raw.githubusercontent.com/usmcamgrimm/usmcamgrimm/master/icons/portfolio.png" width="130" /></a> <a title="Follow me on Twitter!" href="https://twitter.com/usmcamgrimm"><img alt="My Twitter page" src="https://raw.githubusercontent.com/usmcamgrimm/usmcamgrimm/master/icons/twitter.png" width="130" /></a> <a title="Connect with me on LinkedIn" href="https://www.linkedin.com/in/grimmam/"><img alt="MY LinkedIn profile" src="https://raw.githubusercontent.com/usmcamgrimm/usmcamgrimm/master/icons/linkedin.png" width="130" /></a> <a title="Vets Who Code" href="https://vetswhocode.io"><img alt="Vets Who Code" src="https://raw.githubusercontent.com/usmcamgrimm/usmcamgrimm/master/icons/vwc.png" width="130" /></a>
+
+</p>
 
 <p align="center">
 
