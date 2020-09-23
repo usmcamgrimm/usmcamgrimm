@@ -22,15 +22,14 @@ I transitioned from database administration to web development after taking clas
 
 </p>
 
+[![Website](https://img.shields.io/badge/%20-adriangrimm.com-black?color=14171A&labelColor=EB6864&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAABpklEQVRIidWVvU4CURCFZwk/pRqjlY0WPgBIr7FXMMZarRTs5QmI8SHERxBfQ6lBlEpjYoI2mCCS8Fns3HCFy+5ibJhkszvnzD3DDnfPFZn18IJIICkiOb3SIrKi1IuI1ESkKiI3nud9T90Z2ANahMcTkJ9GOAZcWgJ9vX8AG0BWn20O4AKIRWlgxLvAKdDQ/NCqOVKsDhSAL9MkyliM+CaQ0bwNxK26uGIAaWBL1wDkJokndZ4AJ4qVNL9y1FeUO9e8oHkLf3OMLTjg/2Lf6Np/SvSdEB7jYwKaZqYW9q7YkqN+Wbm2haUVa7gadJSct7CeYilHfUq5noUtKNYxWPi+nRxBLjBwNXjV+5qFfep9ziFisI6FrY5oSdwi70VkXURqwKjYmwMzscg4eWce7DeoTlL4Q9yOIUDC2kmjH1rFUX+tXEnzouYPQMLZFshrURf/849qFdu6ZgDsBL4bviuCb2BF3GZ3rFgdOGNoduXQ4eHbtWkCv+06i9uuB0CZKHZtNcoBj4RHM2gsYUdmQkR2xfeWjAyPzGcZHplVz/P6kX/5zMUPgIndDZjgQjkAAAAASUVORK5CYII=)](https://adriangrimm.com/)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-AdrianGrimm-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/grimmam/)
+[![Twitter Follow](https://img.shields.io/badge/%20-@usmcamgrimm-black?color=14171A&labelColor=00acee&logo=twitter&logoColor=ffffff)](https://twitter.com/usmcamgrimm)
+[![Email Address](https://img.shields.io/badge/%20-usmcamgrimm@gmail.com-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:usmcamgrimm@gmail.com)
+
 <p align="center">
 
 <img width="660" src="https://github-profile-trophy.vercel.app/?username=usmcamgrimm&margin-w=10&&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="github trophies" />
-
-</p>
-
-<p width="660" align="center">
-
-<a title="adriangrimm.com" href="https://adriangrimm.com"><img alt="Link to my portfolio website" src="https://raw.githubusercontent.com/usmcamgrimm/usmcamgrimm/master/icons/portfolio.png" width="130" /></a> <a title="Follow me on Twitter!" href="https://twitter.com/usmcamgrimm"><img alt="My Twitter page" src="https://raw.githubusercontent.com/usmcamgrimm/usmcamgrimm/master/icons/twitter.png" width="130" /></a> <a title="Connect with me on LinkedIn" href="https://www.linkedin.com/in/grimmam/"><img alt="MY LinkedIn profile" src="https://raw.githubusercontent.com/usmcamgrimm/usmcamgrimm/master/icons/linkedin.png" width="130" /></a> <a title="Vets Who Code" href="https://vetswhocode.io"><img alt="Vets Who Code" src="https://raw.githubusercontent.com/usmcamgrimm/usmcamgrimm/master/icons/vwc.png" width="130" /></a>
 
 </p>
 
