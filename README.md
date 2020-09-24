@@ -37,7 +37,7 @@ I transitioned from database administration to web development after taking clas
 </p>
 
 <p align="center">
-<img alig src="https://github-profile-trophy.vercel.app/?username=usmcamgrimm&margin-w=10&column=5&rank=SECRET,SSS,SS,S,A,AAA,AA,B,C" alt="github trophies" />
+<img alig src="https://github-profile-trophy.vercel.app/?username=usmcamgrimm&margin-w=8&column=6&rank=SECRET,SSS,SS,S,A,AAA,AA,B,C" alt="github trophies" />
 </p>
 
 <p align="center">
