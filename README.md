@@ -32,7 +32,7 @@ I transitioned from database administration to web development after taking clas
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmcamgrimm&layout=compact&hide=makefile&theme=nord" alt="Most used languages" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=usmcamgrimm&show_icons=true&count_private=true&hide=contribs,issues&theme=nord" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=usmcamgrimm&show_icons=true&count_private=true&hide=issues&theme=nord" alt="GitHub stats" />
 
 </p>
 
