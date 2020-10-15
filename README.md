@@ -32,7 +32,8 @@ I transitioned from database administration to web development after taking clas
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmcamgrimm&layout=compact&hide=makefile&theme=nord" alt="Most used languages" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=usmcamgrimm&show_icons=true&count_private=true&hide=contribs,issues&theme=nord" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=usmcamgrimm&show_icons=true&count_private=true&hide=issues,contribs&bg_color=091f40&text_color=f6f6f6&title_color=c5203e&icon_color=c5203e" alt="GitHub stats" />
+
 
 </p>
 
