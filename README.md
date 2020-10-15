@@ -17,6 +17,11 @@
     </a>
 </p>
 
+<p align="center">
+<a href="https://vetswhocode.io"><img src="https://github.com/usmcamgrimm/usmcamgrimm/blob/master/hashflag.jpg" alt="VetsWhoCode hashflag" /></a>
+
+</p>
+
 ### Towed Artillery to Database Administration
 
 I am a veteran of the United States Marine Corps. From working on artillery to writing code, it's been an amazing journey. After working with data as part of a card access database, I initially sought a career in database administration and studied SQL, MSSQL Server administration, and Oracle Database.
@@ -41,6 +46,8 @@ I transitioned from database administration to web development after taking clas
 <img alig src="https://github-profile-trophy.vercel.app/?username=usmcamgrimm&margin-w=8&column=6&rank=SECRET,SSS,SS,S,A,AAA,AA,B,C" alt="github trophies" />
 </p>
 
+
 <p align="center">
+
 <img src="https://github.com/usmcamgrimm/usmcamgrimm/blob/master/code.gif" alt="I love writing code" />
 </p>
