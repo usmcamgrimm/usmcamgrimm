@@ -41,7 +41,7 @@ I transitioned from database administration to web development after taking clas
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=usmcamgrimm&theme=prussian" alt="usmcamgrimm" /></p>
 
 <p align="center">
-<img alig src="https://github-profile-trophy.vercel.app/?username=usmcamgrimm&margin-w=8&column=6&rank=SECRET,SSS,SS,S,A,AAA,AA,B,C&theme=nord" alt="github trophies" />
+<img alig src="https://github-profile-trophy.vercel.app/?username=usmcamgrimm&margin-w=8&column=6&rank=SECRET,SSS,SS,S,A,AAA,AA,B,C&theme=darkhub" alt="github trophies" />
 </p>
 
 <p align="center">
