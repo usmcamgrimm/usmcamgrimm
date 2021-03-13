@@ -45,5 +45,9 @@ I transitioned from database administration to web development after taking clas
 </p>
 
 <p align="center">
+<a href="https://github.com/usmcamgrimm/usmcamgrimm/blob/master/usmcamgrimm-2020.stl"><img src="https://github.com/usmcamgrimm/usmcamgrimm/blob/master/skyline.jpg" alt="2020 contributions" /></a>
+</p>
+
+<p align="center">
 <img src="https://github.com/usmcamgrimm/usmcamgrimm/blob/master/code.gif" alt="I love writing code" />
 </p>
