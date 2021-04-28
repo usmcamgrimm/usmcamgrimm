@@ -34,16 +34,6 @@ Android custom ROMs and graphics design launched my love for code, and made me r
 
 I transitioned from database administration to front-end development after taking classes covering HTML, CSS, and JavaScript.  While I enjoyed working with data, I found front-end web development to be more rewarding. It was at this point I discovered [Vets Who Code](https://vetswhocode.io/) and through this organization, studied front-end development. Working with, and learning from, veterans while developing skills has been an amazing and rewarding experience. I love using these new skills, while developing them further, to build cool stuff for others.
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmcamgrimm&layout=compact&hide=makefile&theme=prussian" alt="Most used languages" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=usmcamgrimm&show_icons=true&count_private=true&hide=issues,contribs&theme=prussian" alt="GitHub stats" /></p>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=usmcamgrimm&theme=prussian" alt="usmcamgrimm" /></p>
-
-<p align="center">
-<img alig src="https://github-profile-trophy.vercel.app/?username=usmcamgrimm&margin-w=8&column=6&rank=SECRET,SSS,SS,S,A,AAA,AA,B,C&theme=darkhub" alt="github trophies" />
-</p>
-
 ### 🤘 Latest Tweets
 
 <!-- TWITTER:START -->
@@ -54,6 +44,12 @@ I transitioned from database administration to front-end development after takin
 - [@usmcamgrimm: Upgrading a project to Gatsby v3 and getting GraphQL errors on fields that I've already removed. This may be an entire-weekend project 😭](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f0aa6f7bda110b9b69dc68e1c7177d168333)
 <!-- TWITTER:END -->
 
-<!-- <p align="center">
-<img src="https://github.com/usmcamgrimm/usmcamgrimm/blob/master/code.gif" alt="I love writing code" />
-</p> -->
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmcamgrimm&layout=compact&hide=makefile&theme=prussian" alt="Most used languages" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=usmcamgrimm&show_icons=true&count_private=true&hide=issues,contribs&theme=prussian" alt="GitHub stats" /></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=usmcamgrimm&theme=prussian" alt="usmcamgrimm" /></p>
+
+<p align="center">
+<img alig src="https://github-profile-trophy.vercel.app/?username=usmcamgrimm&margin-w=8&column=6&rank=SECRET,SSS,SS,S,A,AAA,AA,B,C&theme=darkhub" alt="github trophies" />
+</p>
