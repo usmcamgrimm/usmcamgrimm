@@ -44,6 +44,11 @@ I transitioned from database administration to front-end development after takin
 <img alig src="https://github-profile-trophy.vercel.app/?username=usmcamgrimm&margin-w=8&column=6&rank=SECRET,SSS,SS,S,A,AAA,AA,B,C&theme=darkhub" alt="github trophies" />
 </p>
 
-<p align="center">
+### 🤘 Latest Tweets
+
+<!-- TWITTER:START -->
+<!-- TWITTER:END -->
+
+<!-- <p align="center">
 <img src="https://github.com/usmcamgrimm/usmcamgrimm/blob/master/code.gif" alt="I love writing code" />
-</p>
+</p> -->
