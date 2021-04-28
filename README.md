@@ -47,6 +47,11 @@ I transitioned from database administration to front-end development after takin
 ### 🤘 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@usmcamgrimm: Got a good feeling that good things are coming this week. #positivity](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f0aa6c7bd812099263d36ee5cb1a7e148238)
+- [@usmcamgrimm: Every time I think about taking a day off from working on code, I tell myself to wait until I get hired.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f0aa6c79dc12069663d26de0c71372168839)
+- [@usmcamgrimm: Nothing like a visit from my 6 month old grandson to make everything better! 🥰](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f0aa6c7dd9150a9667dd68e0c41372108d3b)
+- [@usmcamgrimm: Finally got my project to build! But my queries seem to be busted and don't like the new @gatsby image plugin](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f0aa6c7ddc160c9563d16ee0ca1a7a1c8e3c)
+- [@usmcamgrimm: Upgrading a project to Gatsby v3 and getting GraphQL errors on fields that I've already removed. This may be an entire-weekend project 😭](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f0aa6f7bda110b9b69dc68e1c7177d168333)
 <!-- TWITTER:END -->
 
 <!-- <p align="center">
