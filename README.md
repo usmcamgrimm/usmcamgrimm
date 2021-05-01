@@ -37,11 +37,11 @@ I transitioned from database administration to front-end development after takin
 ### 🤘 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@Colts: Welcome to Indy, @OfficialKwity!#ColtsDraft](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c30bef5d1ad940e849272d4ad4ef6046ed1d86bf2a56f7dda16099666d36ce1)
+- [@usmcamgrimm: For something a little different, I'm going to build a project with @polymer and #WebComponents. #litElement #webdev](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f0aa6d75db1c069a64dc69e0c7177e11833e)
+- [@nbhankes: APIs are the workhorse of modern web development. So it's important to know how to work with them!In this @vetswhocode tutorial, you'll learn about REST APIs and how to use fetch() and Axios.#javascript #webdev #100daysofcode #CodeNewbie #frontenddev](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e113dbae0cce98209ca9573c6f60ab61368dbd66ff4a46f75d716079366d06be9c01678)
+- [@coltsNation365: Happy Draft Day ColtsNation365 🤜🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c30bef5d1cc860e8c896994b44aea4f2d899a2db0bd6b7ed713089167d46be9c2167e148b32cc6181)
 - [@usmcamgrimm: Got a good feeling that good things are coming this week. #positivity](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f0aa6c7bd812099263d36ee5cb1a7e148238)
-- [@usmcamgrimm: Every time I think about taking a day off from working on code, I tell myself to wait until I get hired.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f0aa6c79dc12069663d26de0c71372168839)
-- [@usmcamgrimm: Nothing like a visit from my 6 month old grandson to make everything better! 🥰](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f0aa6c7dd9150a9667dd68e0c41372108d3b)
-- [@usmcamgrimm: Finally got my project to build! But my queries seem to be busted and don't like the new @gatsby image plugin](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f0aa6c7ddc160c9563d16ee0ca1a7a1c8e3c)
-- [@usmcamgrimm: Upgrading a project to Gatsby v3 and getting GraphQL errors on fields that I've already removed. This may be an entire-weekend project 😭](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f0aa6f7bda110b9b69dc68e1c7177d168333)
 <!-- TWITTER:END -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmcamgrimm&layout=compact&hide=makefile&theme=prussian" alt="Most used languages" /></p>
