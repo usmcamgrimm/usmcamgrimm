@@ -37,11 +37,11 @@ I transitioned from database administration to front-end development after takin
 ### 🤘 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@usmcamgrimm: Opened VS Code to update a website, and 3 hours later, figured out netlify-cli wasn't installing globally even though the PATH was set correctly. Now I don't even feel like doing any work...](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f0aa6274de15079a69dd6ae1c2167317823b)
 - [@Colts: Welcome to Indy, @OfficialKwity!#ColtsDraft](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c30bef5d1ad940e849272d4ad4ef6046ed1d86bf2a56f7dda16099666d36ce1)
 - [@usmcamgrimm: For something a little different, I'm going to build a project with @polymer and #WebComponents. #litElement #webdev](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f0aa6d75db1c069a64dc69e0c7177e11833e)
 - [@nbhankes: APIs are the workhorse of modern web development. So it's important to know how to work with them!In this @vetswhocode tutorial, you'll learn about REST APIs and how to use fetch() and Axios.#javascript #webdev #100daysofcode #CodeNewbie #frontenddev](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e113dbae0cce98209ca9573c6f60ab61368dbd66ff4a46f75d716079366d06be9c01678)
 - [@coltsNation365: Happy Draft Day ColtsNation365 🤜🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c30bef5d1cc860e8c896994b44aea4f2d899a2db0bd6b7ed713089167d46be9c2167e148b32cc6181)
-- [@usmcamgrimm: Got a good feeling that good things are coming this week. #positivity](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f0aa6c7bd812099263d36ee5cb1a7e148238)
 <!-- TWITTER:END -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmcamgrimm&layout=compact&hide=makefile&theme=prussian" alt="Most used languages" /></p>
