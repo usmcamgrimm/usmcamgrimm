@@ -51,5 +51,5 @@ I transitioned from database administration to front-end development after takin
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=usmcamgrimm&theme=prussian" alt="usmcamgrimm" /></p>
 
 <p align="center">
-<img alig src="https://github-profile-trophy.vercel.app/?username=usmcamgrimm&margin-w=8&column=6&rank=SECRET,SSS,SS,S,A,AAA,AA,B&theme=darkhub&no-frame=true" alt="github trophies" />
+<img alig src="https://github-profile-trophy.vercel.app/?username=usmcamgrimm&margin-w=8&column=4&theme=darkhub&no-frame=true" alt="github trophies" />
 </p>
