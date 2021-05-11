@@ -37,11 +37,11 @@ I transitioned from database administration to front-end development after takin
 ### 🤘 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@usmcamgrimm: Seared pork loin in the oven, mushroom duxelle ready for the risotto, and then an apple reduction going on the stove. This is one of the 2 times a year I cook something special for my wife.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f0ab6b78df1c079460d66ce6c2157e11833f)
 - [@Colts: The Maniac’s secret weapon. 😈#MayTheFourthBeWithYou](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c30bef5d1ad940e849272d4ad4ef60460deda6af1ab6a7cd9100f9b64d26be6)
 - [@ColtsEvents: “Through the music, I’m able to have a good day by expressing something that feels good to me that I can pass on to others”@SnoopDogg | #KickingTheStigma](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c30bef5d1c7911f8b927488f10ba4482c9bc169f0aa637bdd140f9266d36be8ca1673108f32)
 - [@usmcamgrimm: Somehow I unlocked the MultiLanguage trophy on my GitHub profile](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f0aa6378d6150f9065d468e3c0177c158e3e)
 - [@usmcamgrimm: Opened VS Code to update a website, and 3 hours later, figured out netlify-cli wasn't installing globally even though the PATH was set correctly. Now I don't even feel like doing any work...](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f0aa6274de15079a69dd6ae1c2167317823b)
-- [@Colts: Welcome to Indy, @OfficialKwity!#ColtsDraft](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c30bef5d1ad940e849272d4ad4ef6046ed1d86bf2a56f7dda16099666d36ce1)
 <!-- TWITTER:END -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmcamgrimm&layout=compact&hide=makefile&theme=prussian" alt="Most used languages" /></p>
