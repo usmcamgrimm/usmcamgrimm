@@ -37,11 +37,11 @@ I transitioned from database administration to front-end development after takin
 ### 🤘 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@Colts: OTAs:OfficiallyTrainingAgain andStoked about it](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c30bef5d1ad940e849272d4ad4ef6056ddcda60fba36f74d817069565dd6be0)
 - [@usmcamgrimm:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f0ab6974d613079764d46ae7c5147e148d3a)
 - [@usmcamgrimm: One step closer to finishing my @GatsbyJS v3 upgrade. It's taken way longer than I originally thought but it's been a fun learning experience.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f0ab6974d615079664d36ee5cb107a14823b)
 - [@usmcamgrimm: GraphiQL is a wonderful tool!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f0ab697bd7160a9060d261e2c2167d148a3c)
 - [@usmcamgrimm: Seared pork loin in the oven, mushroom duxelle ready for the risotto, and then an apple reduction going on the stove. This is one of the 2 times a year I cook something special for my wife.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f0ab6b78df1c079460d66ce6c2157e11833f)
-- [@Colts: The Maniac’s secret weapon. 😈#MayTheFourthBeWithYou](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c30bef5d1ad940e849272d4ad4ef60460deda6af1ab6a7cd9100f9b64d26be6)
 <!-- TWITTER:END -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmcamgrimm&layout=compact&hide=makefile&theme=prussian" alt="Most used languages" /></p>
