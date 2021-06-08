@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Adrian!</h1>
 
-![Sitting at the beach](https://github.com/usmcamgrimm/usmcamgrimm/blob/master/photo.jpg)
+![Adrian at the beach](https://github.com/usmcamgrimm/usmcamgrimm/blob/master/photo.jpg)
 
 <p align="center">
     <a href="https://adriangrimm.com">
@@ -24,7 +24,7 @@
 
 ### Towed Artillery to Database Administration
 
-I am a veteran of the United States Marine Corps. From working on artillery to writing code, it's been an amazing journey. After working with data as part of a card access database, I initially sought a career in database administration and studied SQL, MSSQL Server administration, and Oracle Database.
+I am a veteran of the United States Marine Corps. From working with hopwitzers to writing code, it's been an amazing journey. After working with data as part of a card access database, I initially sought a career in database administration and studied SQL, MSSQL Server administration, and Oracle Database.
 
 ### Android Development
 
