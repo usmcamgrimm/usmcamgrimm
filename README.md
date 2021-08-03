@@ -37,6 +37,11 @@ I transitioned from database administration to front-end development after takin
 ### 🤘 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@dabit3: Just published a new free @eggheadio video - Moving Your Entire Development Environment to the Cloud with Next.js, @gitpod, & VercelThis is a nice setup - code from any machine, tablet, or Chromebook & enable extremely easy contributions & collaboration](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1b3eb0e8d6b1c809918773d2f150f4086bdade6af3a26278d7120c9364d269e7ca)
+- [@usmcamgrimm: As a new developer trying to break into tech, it makes me sad when I saw all these crappy websites that people actually get paid to create.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f7a06b75d8120f9667d261e3c017781d8e3e)
+- [@Rhino_Records: On MTV’s 40th birthday, this sad fact is still all too true. Oh, what could have been…](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2d37bbefcdddb51f868975c3f150b648389c9b2beca36e7fde1c089669d361e2c71b7e10833fc465)
+- [@usmcamgrimm: What would a @colts off-season be without QB drama?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f7a06b7bdf15089461dc6fe5c0157b1d8c3c)
+- [@usmcamgrimm: Hard to get anything done like this](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f7a06b78df12079163d060e4c0177e10883b)
 <!-- TWITTER:END -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmcamgrimm&layout=compact&hide=makefile&theme=prussian" alt="Most used languages" /></p>
