@@ -24,7 +24,7 @@
 
 ### Towed Artillery to Database Administration
 
-I am a veteran of the United States Marine Corps. From working with hopwitzers to writing code, it's been an amazing journey. After working with data as part of a card access database, I initially sought a career in database administration and studied SQL, MSSQL Server administration, and Oracle Database.
+I am a veteran of the United States Marine Corps. From working with howitzers to writing code, it's been an amazing journey. After working with data as part of a card access database, I initially sought a career in database administration and studied SQL, MSSQL Server administration, and Oracle Database.
 
 ### Android Development
 
@@ -43,6 +43,7 @@ I transitioned from database administration to front-end development after takin
 - [@usmcamgrimm: What would a @colts off-season be without QB drama?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f7a06b7bdf15089461dc6fe5c0157b1d8c3c)
 - [@usmcamgrimm: Hard to get anything done like this](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f7a06b78df12079163d060e4c0177e10883b)
 <!-- TWITTER:END -->
+
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmcamgrimm&layout=compact&hide=makefile&theme=prussian" alt="Most used languages" /></p>
 
