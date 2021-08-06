@@ -37,11 +37,11 @@ I transitioned from database administration to front-end development after takin
 ### 🤘 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@usmcamgrimm: I've been going through 'Full Stack Serverless' by @dabit3. Stumped, not sure what I'm doing wrong but chapter 6 is kicking my butt.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f7a0697ed611089368d76fe0c61a7f1d883b)
+- [@github: For @jeromehardaway, teaching in public minimizes the point of entry for giving back to the community. Check out his story!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1836a6e9d7e0c809918773d2f150f4086bdbdd60f3aa697cd7170b9764d260e9c3)
+- [@Colts: You gave this city something to believe in.Thank you, Peyton.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c30bef5d1ad940e849272d4ad4ef10e6adad76ff4a76c7fd6150f9b60d461e5)
+- [@VetsWhoCode: "I don’t want to be better than you or her or him—I want to be better than I am right now."-Kerri Walsh](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e293aa6f2f5ea88398a826288f10ba4482c9bc169f7a0697fdc130b9369d269e1c71373168c3f)
 - [@usmcamgrimm: Loved Peyton, so excited to see his enshrinement Sunday](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f7a06874de100a9468d16be8c3167c11883a)
-- [@JoshWComeau: 🔥 When you transform an element on hover, it can lead to "doom flickers" — the element stutters back and forth as the mouse moves near the edge, confused about whether it's being hovered or not.Solve this problem by applying the transform to a *child element* instead:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3530a1e9f5c1881780877288f10ba4482c9bc169f7a0687bdd12089a69d16be7c3167f128f3f)
-- [@dabit3: Just published a new free @eggheadio video - Moving Your Entire Development Environment to the Cloud with Next.js, @gitpod, & VercelThis is a nice setup - code from any machine, tablet, or Chromebook & enable extremely easy contributions & collaboration](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1b3eb0e8d6b1c809918773d2f150f4086bdade6af3a26278d7120c9364d269e7ca)
-- [@usmcamgrimm: As a new developer trying to break into tech, it makes me sad when I saw all these crappy websites that people actually get paid to create.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f7a06b75d8120f9667d261e3c017781d8e3e)
-- [@Rhino_Records: On MTV’s 40th birthday, this sad fact is still all too true. Oh, what could have been…](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2d37bbefcdddb51f868975c3f150b648389c9b2beca36e7fde1c089669d361e2c71b7e10833fc465)
 <!-- TWITTER:END -->
 
 
