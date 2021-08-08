@@ -37,11 +37,11 @@ I transitioned from database administration to front-end development after takin
 ### 🤘 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@usmcamgrimm: Makes me laugh when I see a company re-post a role I applied for](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f7a0697ade10079068d46ee4cb1b7212893a)
 - [@usmcamgrimm: I've been going through 'Full Stack Serverless' by @dabit3. Stumped, not sure what I'm doing wrong but chapter 6 is kicking my butt.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f7a0697ed611089368d76fe0c61a7f1d883b)
 - [@github: For @jeromehardaway, teaching in public minimizes the point of entry for giving back to the community. Check out his story!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1836a6e9d7e0c809918773d2f150f4086bdbdd60f3aa697cd7170b9764d260e9c3)
 - [@Colts: You gave this city something to believe in.Thank you, Peyton.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c30bef5d1ad940e849272d4ad4ef10e6adad76ff4a76c7fd6150f9b60d461e5)
 - [@VetsWhoCode: "I don’t want to be better than you or her or him—I want to be better than I am right now."-Kerri Walsh](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e293aa6f2f5ea88398a826288f10ba4482c9bc169f7a0697fdc130b9369d269e1c71373168c3f)
-- [@usmcamgrimm: Loved Peyton, so excited to see his enshrinement Sunday](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f7a06874de100a9468d16be8c3167c11883a)
 <!-- TWITTER:END -->
 
 
