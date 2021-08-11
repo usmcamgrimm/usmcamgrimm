@@ -37,11 +37,11 @@ I transitioned from database administration to front-end development after takin
 ### 🤘 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@githubstatus: Git Operations is experiencing degraded performance. We are continuing to investigate.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1836a6e9d7e0940e849272d4ad0cb15d2d9d9d77f2a66878de15069b65d36ce6cb1b7b178c3fcd)
+- [@usmcamgrimm: Describes me perfectly. Hopefully the noise comes soon!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f7a06f7dd715099767d568e6cb1b7c1d8e3c)
 - [@Colts: Seems to be a pretty popular guy. 📺 @NFLNetwork](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c30bef5d1ad940e849272d4ad4ef10e6dddde6ef3a36b7ed7120d9565d368e0)
 - [@usmcamgrimm: Have to go out and be social...I just want to stay home and study](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f7a06e7dd71d0e9b63d56fe9c2127912823b)
 - [@usmcamgrimm: Do you use ligatures? Why or why not?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f7a06e7ddc1c0c9b67d36ce1c71a7d168f3b)
-- [@usmcamgrimm: Makes me laugh when I see a company re-post a role I applied for](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f7a0697ade10079068d46ee4cb1b7212893a)
-- [@usmcamgrimm: I've been going through 'Full Stack Serverless' by @dabit3. Stumped, not sure what I'm doing wrong but chapter 6 is kicking my butt.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f7a0697ed611089368d76fe0c61a7f1d883b)
 <!-- TWITTER:END -->
 
 
