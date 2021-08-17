@@ -34,17 +34,6 @@ Android custom ROMs and graphics design launched my love for code, and made me r
 
 I transitioned from database administration to front-end development after taking classes covering HTML, CSS, and JavaScript.  While I enjoyed working with data, I found front-end web development to be more rewarding. It was at this point I discovered [Vets Who Code](https://vetswhocode.io/) and through this organization, studied front-end development. Working with, and learning from, veterans while developing skills has been an amazing and rewarding experience. I love using these new skills, while developing them further, to build cool stuff for others.
 
-### 🤘 Latest Tweets
-
-<!-- TWITTER:START -->
-- [@dsleon45: Discipline, detailed and determination!!!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1b2cbee4cdecd34fca9573c6f60ab61368dcdc6ef0a16974d912099767d66fe2ca107e)
-- [@tdesseyn: i truly believe you can build an amazing culture virtually it just takes more effort. more focus on the individual employee than ever before.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0b3bb7f2d1e79e14ca9573c6f60ab61368dcdc6ef2a46c7ade150f9a69d26ae2c5157d)
-- [@usmcamgrimm: I should print this and put it where I can see it while getting ready for interviews](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f7a06f79da140c9a61dd69e0c2147c1d8a3a)
-- [@githubstatus: Git Operations is experiencing degraded performance. We are continuing to investigate.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1836a6e9d7e0940e849272d4ad0cb15d2d9d9d77f2a66878de15069b65d36ce6cb1b7b178c3fcd)
-- [@usmcamgrimm: Describes me perfectly. Hopefully the noise comes soon!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f7a06f7dd715099767d568e6cb1b7c1d8e3c)
-<!-- TWITTER:END -->
-
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmcamgrimm&layout=compact&hide=makefile&theme=prussian" alt="Most used languages" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=usmcamgrimm&show_icons=true&count_private=true&hide=issues,contribs&theme=prussian" alt="GitHub stats" /></p>
