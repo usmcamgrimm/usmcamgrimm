@@ -34,7 +34,7 @@ Android custom ROMs and graphics design launched my love for code, and made me r
 
 I transitioned from database administration to front-end development after taking classes covering HTML, CSS, and JavaScript.  While I enjoyed working with data, I found front-end web development to be more rewarding. It was at this point I discovered [Vets Who Code](https://vetswhocode.io/) and through this organization, studied front-end development. Working with, and learning from, veterans while developing skills has been an amazing and rewarding experience. I love using these new skills, while developing them further, to build cool stuff for others.
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmcamgrimm&layout=compact&hide=makefile&theme=prussian" alt="Most used languages" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmcamgrimm&exclude_repo=WDD223-CMS-Design-and-Development,witcher-api&layout=compact&hide=makefile&theme=prussian" alt="Most used languages" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=usmcamgrimm&show_icons=true&count_private=true&hide=issues,contribs&theme=prussian" alt="GitHub stats" /></p>
 
