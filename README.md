@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Adrian!</h1>
 
-![Adrian at the beach](https://github.com/usmcamgrimm/usmcamgrimm/blob/master/photo.jpg)
+![My Octocat](https://github.com/usmcamgrimm/usmcamgrimm/blob/master/my_octocat.png)
 
 <p align="center">
     <a href="https://adriangrimm.com">
