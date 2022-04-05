@@ -31,8 +31,7 @@
 I am a veteran of the United States Marine Corps. From working with howitzers to writing code, it's been an amazing journey. Initially, I sought a career working with data and studied SQL, MSSQL Server, and Oracle Database. But then I took classes on HTML, CSS, and JavaScript.  While I enjoyed working with data, I found front-end web development to be more rewarding. It was at this point I discovered [Vets Who Code](https://vetswhocode.io/) and through this organization, studied front-end development. Working with, and learning from, veterans while developing skills has been an amazing and rewarding experience. I love using these new skills, while developing them further, to create content that I can share for others to enjoy.
 
  ### Recently I started doing some writing. Here are a few articles:
-<p align="center">
-    <!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->
 
 - [Hello, my name is Adrian Grimm!](https://dev.to/usmcamgrimm/hello-my-name-is-adrian-grimm-2pn3)
   
@@ -43,7 +42,6 @@ I am a veteran of the United States Marine Corps. From working with howitzers to
 - [Learning React](https://dev.to/usmcamgrimm/learning-react-1454)
 
 <!-- BLOG-POST-LIST:END -->
-</p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmcamgrimm&exclude_repo=witcher-api&langs_count=8&layout=compact&hide=makefile&theme=react" alt="Most used languages" /></p>
 
