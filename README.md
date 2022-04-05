@@ -33,7 +33,16 @@ I am a veteran of the United States Marine Corps. From working with howitzers to
  ### Recently Started Writing
 <p align="center">
     <!-- BLOG-POST-LIST:START -->
-    <!-- BLOG-POST-LIST:END -->
+
+- [Hello, my name is Adrian Grimm!](https://dev.to/usmcamgrimm/hello-my-name-is-adrian-grimm-2pn3)
+  
+- [VetsWhoCode Extension Pack](https://dev.to/vetswhocode/vetswhocode-extension-pack-30bh)
+  
+- [Why I Use SSH with Git](https://dev.to/vetswhocode/why-i-use-ssh-with-git-35kk)
+
+- [Learning React](https://dev.to/usmcamgrimm/learning-react-1454)
+
+<!-- BLOG-POST-LIST:END -->
 </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmcamgrimm&exclude_repo=witcher-api&langs_count=8&layout=compact&hide=makefile&theme=react" alt="Most used languages" /></p>
