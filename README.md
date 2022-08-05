@@ -83,10 +83,4 @@ I am a veteran of the United States Marine Corps. From working with howitzers to
 
 </details>
 
-<details><summary><b>What I'm Listening To</b></summary>
-<br>
-<p align="center">[![Spotify](https://github.com/usmcamgrimm/usmcamgrimm/blob/main/spotify.svg)](https://open.spotify.com/user/3304ca7912c94a13a27fab1734cbcf8d)</p>
-<br>
-</details>
-
 <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=usmcamgrimm&theme=react-dark" alt="Adrian's contribution graph" /></p>
