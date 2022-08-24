@@ -82,5 +82,3 @@ I am a veteran of the United States Marine Corps. From working with howitzers to
 <br><br>
 
 </details>
-
-<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=usmcamgrimm&theme=react-dark" alt="Adrian's contribution graph" /></p>
