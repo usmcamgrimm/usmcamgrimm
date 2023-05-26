@@ -45,7 +45,7 @@ I am a veteran of the United States Marine Corps. From working with howitzers to
 
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmcamgrimm&exclude_repo=witcher-api&langs_count=8&layout=compact&hide=makefile&theme=react" alt="Most used languages" /></p> -->
 
-<details><summary><b>My GitHub Stats</b></summary>
+<details><summary><b>My GitHub Stats and Streak</b></summary>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=usmcamgrimm&show_icons=true&count_private=true&hide=issues,contribs&theme=react" alt="GitHub stats" /></p>
 
@@ -56,12 +56,12 @@ I am a veteran of the United States Marine Corps. From working with howitzers to
 <details><summary><b>My GitHub Trophy Collection</b></summary>
 
 <p align="center">
-<img alig src="https://github-profile-trophy.vercel.app/?username=usmcamgrimm&margin-w=8&column=4&theme=darkhub&no-frame=true" alt="github trophies" />
+<img alig src="https://github-profile-trophy.vercel.app/?username=usmcamgrimm&margin-w=8&column=4&title=MultipleLang,Organizations,Repositories,Commits,Followers,PullRequest,Stars,Issues&theme=darkhub&no-frame=true" alt="github trophies" />
 </p>
 
 </details>
 
-<details><summary><b>Languages and Tools</b></summary>
+<details><summary><b>Languages and Tools I've Used</b></summary>
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,ruby,rails,js,react,nextjs,bootstrap,tailwind,git,github,netlify,vercel,vscode&perline=7" />
