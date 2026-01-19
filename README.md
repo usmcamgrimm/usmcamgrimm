@@ -51,6 +51,8 @@ I am a veteran of the United States Marine Corps. From working with howitzers to
 
 <p align="center"><img src="https://streak-stats.demolab.com?user=usmcamgrimm&theme=react&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DD0000" alt="Adrian's GitHub streak stats" /></p>
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=usmcamgrimm&theme=prussian&hide_border=true" alt="GitHub Streak" /></a>
+
 <!-- <p align="center"><img src="https://github-readme-stats-flax-seven-13.vercel.app?user=usmcamgrimm&theme=react&border_radius=5&fire=FF0000&ring=FF0000&currStreakNum=FF0000" alt="Adrian's GitHub streak stats" /></p> -->
 
 <!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=usmcamgrimm&theme=react&border_radius=5&fire=FF0000&ring=FF0000&currStreakNum=FF0000" alt="Adrian's GitHub streak stats" /></p> -->
